@@ -21,6 +21,7 @@ Example Video:
 https://www.youtube.com/watch?v=4e5KVpLYs1s
 
 Build Instructions:
+https://www.hackster.io/nick-engmann/alexa-eye-giving-an-echo-dot-some-personality-38705e
 
 
 *** NOTES ***
